@@ -3,10 +3,10 @@ STEAM数据接口
 
 ## 首页轮播图接口
 
-#### 接口地址：<span>http://192.168.1.100</span>
+#### 接口地址：内网：<span>http://192.168.1.100:81</span> 公网：http://www.qinsichina.com/steamDataAPI.php
 #### 返回格式：<span>json</span>
 #### 请求方式：<span>get http</span>
-#### 请求示例：<span>http://192.168.1.100?callback=xxxxfn</span>
+#### 请求示例：<span>http://192.168.1.100:81?callback=xxxxfn</span>
 
 
 ### 请求参数说明：无
