@@ -1,0 +1,443 @@
+[
+    {
+        "name": "Human: Fall Flat",
+        "url": "http://store.steampowered.com/app/477160/Human_Fall_Flat/?snr=1_4_4__100",
+        "gameId": 477160,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 48,
+        "price": 48,
+        "imgUrl": [
+            "http://cdn.akamai.steamstatic.com/steam/apps/477160/ss_bc87677b5a5d9f9041feb22e9a0a2e98051c4b6b.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/477160/ss_44e55c053b762e8424b9f846c203ad39e791dfb2.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/477160/ss_b30c777c1967bf1f627951ff1c5431e7ee82e619.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/477160/ss_50d34bf8e2fbc4aafca961f2468bdc95e616b04a.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2016-7-22",
+        "evaluate": 1,
+        "evaluatingCount": 11853,
+        "label": [
+            "搞笑",
+            "多人",
+            "物理",
+            "合作",
+            "解谜",
+            "独立",
+            "单机合作",
+            "冒险",
+            "平台解谜",
+            "单机多人",
+            "沙盒",
+            "开放世界",
+            "跑酷",
+            "欢乐",
+            "单人",
+            "休闲",
+            "分屏",
+            "3D",
+            "模拟",
+            "生存"
+        ]
+    },
+    {
+        "name": "Warhammer: Vermintide 2",
+        "url": "http://store.steampowered.com/app/552500/agecheck",
+        "gameId": 552500,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 88,
+        "price": 88,
+        "imgUrl": [
+            "http://cdn.akamai.steamstatic.com/steam/apps/552500/ss_ed6a44942d80613b16e2312fd6c5263d35bfd1ba.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/552500/ss_a82e096cfe8e6b87fc194cd320731cfbb49ac8a8.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/552500/ss_a82e096cfe8e6b87fc194cd320731cfbb49ac8a8.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/552500/ss_31fc156f21e96edacfcf1ea28287cc36c46d486f.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2018-3-8",
+        "evaluate": 1,
+        "evaluatingCount": 6154,
+        "label": [
+            "血腥",
+            "暴力",
+            "合作",
+            "第一人称视角",
+            "多人",
+            "动作",
+            "砍杀",
+            "黑暗奇幻",
+            "氛围",
+            "游戏工坊",
+            "奇幻",
+            "第一人称射击",
+            "在线合作",
+            "独立",
+            "冒险",
+            "单人",
+            "玩家合作",
+            "动作角色扮演",
+            "生存",
+            "开放世界"
+        ]
+    },
+    {
+        "name": "XCOM 2: War of the Chosen",
+        "url": "http://store.steampowered.com/app/593380/",
+        "gameId": 593380,
+        "isSale": true,
+        "discount": 0.4,
+        "originPrice": 135,
+        "price": 81,
+        "imgUrl": [
+            "http://cdn.akamai.steamstatic.com/steam/apps/593380/ss_077e228cdbf84e123360e95cb2f3d886e24a2b31.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/593380/ss_2ffbc740db7e25b2a8967f7018845ef1641ab330.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/593380/ss_bac5218209a7c33b0718c6546018244a33be0858.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/593380/ss_7085970344a01f227b4b43bd81bc846fa987ea9c.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2017年8月28日",
+        "evaluate": 1,
+        "evaluatingCount": 1852,
+        "label": [
+            "策略",
+            "回合制",
+            "战术",
+            "回合制战术",
+            "外星人",
+            "科幻",
+            "丧尸",
+            "回合制策略",
+            "动作",
+            "困难",
+            "单人"
+        ]
+    },
+    {
+        "name": "ARK: Survival Evolved",
+        "url": "http://store.steampowered.com/app/346110/",
+        "gameId": 346110,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 196,
+        "price": 196,
+        "imgUrl": [
+            "http://cdn.akamai.steamstatic.com/steam/apps/346110/ss_46778c08a1a5ac5bdbaf8a5bf844fa666f66a14b.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/346110/ss_164a92a53f9bcbb728b391fc0719f9769c2e1249.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/346110/ss_2fd997a2f7151cb2187043a1f41589cc6a9ebf3a.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/346110/ss_01cbef83fe28d64ee5a3d39a86043fb1e49abd31.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2017-8-29",
+        "evaluate": 4,
+        "evaluatingCount": 143588,
+        "label": [
+            "生存",
+            "恐龙",
+            "开放世界",
+            "多人",
+            "工艺",
+            "建造",
+            "冒险",
+            "建筑建造",
+            "合作",
+            "动作",
+            "第一人称视角",
+            "沙盒",
+            "大型多人在线",
+            "单人",
+            "龙",
+            "角色扮演",
+            "科幻",
+            "MMORPG",
+            "独立",
+            "免费"
+        ]
+    },
+    {
+        "name": "Northgard",
+        "url": "http://store.steampowered.com/app/466560/",
+        "gameId": 466560,
+        "isSale": true,
+        "discount": 0.26,
+        "originPrice": 90,
+        "price": 67,
+        "imgUrl": [
+            "http://cdn.akamai.steamstatic.com/steam/apps/466560/ss_71993bb83b28cafb34ac2434378425579ed7d59c.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/466560/ss_0de6fea3166a04027b671e438645e98186095c63.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/466560/ss_2281bef944d5864ab78f6d25c41cc09050f95cf1.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/466560/ss_20993eb36b42b6ec4156d57adf2bc9e5e5f46105.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2018-3-7",
+        "evaluate": 2,
+        "evaluatingCount": 8231,
+        "label": [
+            "策略",
+            "城市营造",
+            "即时战略",
+            "资源管理",
+            "多人",
+            "即时",
+            "中世纪",
+            "模拟",
+            "独立",
+            "生存",
+            "单人",
+            "4X",
+            "管理",
+            "合作",
+            "神话",
+            "战争",
+            "动作",
+            "冒险",
+            "氛围",
+            "好评原声音乐"
+        ]
+    },
+    {
+        "name": "ASTRONEER",
+        "url": "http://store.steampowered.com/app/361420/",
+        "gameId": 361420,
+        "isSale": true,
+        "discount": 0.21,
+        "originPrice": 68,
+        "price": 54,
+        "imgUrl": [
+            "http://cdn.akamai.steamstatic.com/steam/apps/361420/ss_c0ca4f8f9f10c81bcea7d4f0107302ba1c566e37.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/361420/ss_f4fb0e803b26e874bf6e5bea2f35d91009d2d5ab.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/361420/ss_44affd340a6cc11f5a403d2505023c92e630242a.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/361420/ss_ff3c9e9271adff1b84754fc485892e5d2db73c98.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2016-12-15",
+        "evaluate": 2,
+        "evaluatingCount": 21133,
+        "label": [
+            "Early Access",
+            "开放世界",
+            "太空",
+            "生存",
+            "多人",
+            "探索",
+            "沙盒",
+            "建筑建造",
+            "冒险",
+            "合作",
+            "建造",
+            "工艺",
+            "科幻",
+            "氛围",
+            "第三人称视角",
+            "单人",
+            "鲜艳",
+            "好评原声音乐",
+            "独立",
+            "体素"
+        ]
+    },
+    {
+        "name": "Dungeons 3",
+        "url": "http://store.steampowered.com/app/493900/",
+        "gameId": 493900,
+        "isSale": true,
+        "discount": 0.5,
+        "originPrice": 134,
+        "price": 67,
+        "imgUrl": [
+            "http://cdn.akamai.steamstatic.com/steam/apps/493900/ss_5cea628dbda38bf25958b50e8f85fdd45a5beda2.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/493900/ss_a179aaf114ab703df19000af35f8ec49a526eed4.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/493900/ss_dc384bb25b4087e8bcbdf8773b42cb22880576b5.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/493900/ss_4dbf1798be98166f94601d645bffcfbe454f5c5e.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2017-10-13",
+        "evaluate": 2,
+        "evaluatingCount": 2982,
+        "label": [
+            "策略",
+            "模拟",
+            "管理",
+            "即时战略",
+            "恶人主角",
+            "奇幻",
+            "经济",
+            "角色扮演",
+            "欢乐",
+            "多人"
+        ]
+    },
+    {
+        "name": "Sid Meier’s Civilization® VI: Rise and Fall",
+        "url": "http://store.steampowered.com/app/645402/",
+        "gameId": 645402,
+        "isSale": true,
+        "discount": 0.1,
+        "originPrice": 99,
+        "price": 89,
+        "imgUrl": [
+            "http://cdn.steamstatic.com.8686c.com/steam/apps/645402/capsule_616x353.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/645402/ss_f670df09de0890b4f0f66aa043070a9428c378f3.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/645402/ss_d897cfd88983569a95bfa58ab279a3c6542c457e.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/645402/ss_b7831bcf8991998b0b5ec6eb91941bc50b673068.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2018-2-7 ",
+        "evaluate": 4,
+        "evaluatingCount": 1206,
+        "label": [
+            "策略",
+            "回合制",
+            "4X"
+        ]
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six® Siege",
+        "url": "http://store.steampowered.com/app/359550/",
+        "gameId": 359550,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 68,
+        "price": 68,
+        "imgUrl": [
+            "http://cdn.steamstatic.com.8686c.com/steam/apps/359550/capsule_616x353_alt_assets_0.jpg?t=1520526886",
+            "http://cdn.akamai.steamstatic.com/steam/apps/359550/ss_891ce71ba6b2640270589687d58ef3be4b8fe044.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/359550/ss_d9e0239ee7fd1ebd41ad968a06c960d804614b69.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/359550/ss_07da51726f2eac0e97a73175618ef60389eae3e2.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2015-12-1",
+        "evaluate": 2,
+        "evaluatingCount": 140883,
+        "label": [
+            "第一人称射击",
+            "多人",
+            "战术"
+        ]
+    },
+    {
+        "name": "Slay the Spire",
+        "url": "http://store.steampowered.com/app/646570/",
+        "gameId": 646570,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 52,
+        "price": 52,
+        "imgUrl": [
+            "http://cdn.steamstatic.com.8686c.com/steam/apps/646570/capsule_616x353.jpg?t=1519964615",
+            "http://cdn.akamai.steamstatic.com/steam/apps/646570/ss_9e8725d772919a7d76a337a89acf5bed6aaddbbb.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/646570/ss_4e8a3e58cefd663af54cf8d9afcc90b0bac47b6f.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/646570/ss_643d92233eab9a41c3b385492a125fc0fcb25edc.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2017-11-14",
+        "evaluate": 1,
+        "evaluatingCount": 8607,
+        "label": [
+            "Early Access",
+            "纸牌",
+            "类Rogue",
+            "策略",
+            "轻度Rogue",
+            "回合制",
+            "独立",
+            "角色扮演",
+            "单人",
+            "困难",
+            "重玩价值",
+            "迷宫探索"
+        ]
+    },
+    {
+        "name": "SOS",
+        "url": "http://store.steampowered.com/app/619080/",
+        "gameId": 619080,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 50,
+        "price": 50,
+        "imgUrl": [
+            "http://cdn.steamstatic.com.8686c.com/steam/apps/619080/capsule_616x353.jpg?t=1519332919",
+            "http://cdn.akamai.steamstatic.com/steam/apps/619080/ss_698a0d5dcb7dce09f88cfdf207eff9beab96ecb9.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/619080/ss_e9d2b814f876375c92a1533ca8f57d77bc37de67.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/619080/ss_7bbfc0428dc7855763579a0dee629bd0996453d5.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2018-1-23",
+        "evaluate": 4,
+        "evaluatingCount": 1922,
+        "label": [
+            "Early Access",
+            "冒险",
+            "生存",
+            "动作",
+            "多人",
+            "冒险"
+        ]
+    },
+    {
+        "name": "My Lovely Daughter",
+        "url": "http://store.steampowered.com/app/580170/",
+        "gameId": 580170,
+        "isSale": true,
+        "discount": 0.1,
+        "originPrice": 48,
+        "price": 43,
+        "imgUrl": [
+            "http://cdn.steamstatic.com.8686c.com/steam/apps/580170/capsule_616x353.jpg?t=1520539167",
+            "http://cdn.akamai.steamstatic.com/steam/apps/580170/ss_4a83fa1f94781ae57cdd1415692b7d055ec45110.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/580170/ss_d6b43b6ed88361e0f8c470318c31928bff2e3ad3.600x338.jpg",
+            "http://cdn.akamai.steamstatic.com/steam/apps/580170/ss_50740c1eec90fef77c6010fe9ee8ce9473db9a2c.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2018-3-8",
+        "evaluate": 2,
+        "evaluatingCount": 79,
+        "label": [
+            "模拟",
+            "独立",
+            "血腥",
+            "冒险",
+            "暴力",
+            "实验性"
+        ]
+    }
+]
