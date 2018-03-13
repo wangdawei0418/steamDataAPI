@@ -56,7 +56,7 @@ STEAM数据接口
         <tr>
             <td>price</td>
             <td>Int</td>
-            <td>在售价；`在售价 = 游戏原价 * (1 - 折扣率)`;如isSale为false则在售价等于原价</td>
+            <td>在售价；`在售价 = 游戏原价 * (1 - 折扣率)`; 如isSale为false则在售价等于原价</td>
         </tr>
         <tr>
             <td>imgUrl</td>
