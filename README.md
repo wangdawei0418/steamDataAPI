@@ -3,10 +3,11 @@ STEAM数据接口
 
 ## 首页轮播图接口
 
-#### 接口地址：内网：<span>http://192.168.1.180/gameList.json</span> 公网：http://ie19852360.51mypc.cn:32931/gameList.json
+#### 接口地址：内网：<span>http://192.168.1.180:81/recommendGame</span> 公网：http://47.92.202.205:81/recommendGame
 #### 返回格式：<span>json</span>
 #### 请求方式：<span>get http</span>
-#### 请求示例：<span>http://192.168.1.180/gameList.json?callback=fn</span>
+#### 请求示例：<span>http://192.168.1.180:81/recommendGame?callback=fn</span>
+#### 请求示例：<span>http://47.92.202.205:81/recommendGame?callback=fn</span>
 
 
 ### 请求参数说明：无
