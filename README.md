@@ -202,56 +202,6 @@ STEAM数据接口
             <td>int</td>
             <td>游戏ID,唯一</td>
         </tr>
-        <tr>
-            <td>isSale</td>
-            <td>Boolean</td>
-            <td>当前是否在打折</td>
-        </tr>
-        <tr>
-            <td>discount</td>
-            <td>Float</td>
-            <td>折扣率；如0.2则为折扣百分之二十</td>
-        </tr>
-        <tr>
-            <td>originPrice</td>
-            <td>Int</td>
-            <td>游戏原价</td>
-        </tr>
-        <tr>
-            <td>price</td>
-            <td>Int</td>
-            <td>在售价；`在售价 = 游戏原价 * (1 - 折扣率)`;如isSale为false则在售价等于原价</td>
-        </tr>
-        <tr>
-            <td>imgUrl</td>
-            <td>Array</td>
-            <td>游戏截图URL列表</td>
-        </tr>
-        <tr>
-            <td>platform</td>
-            <td>Array</td>
-            <td>可兼容平台</td>
-        </tr>
-        <tr>
-            <td>date</td>
-            <td>Date</td>
-            <td>发售日期</td>
-        </tr>
-        <tr>
-            <td>evaluate</td>
-            <td>Int</td>
-            <td>口碑；1为“好评如潮”；2为"特别好评"；3为"多半好评"；4为"褒贬不一"；5为"多半差评"；6为"差评如潮"；7为"无评论</td>
-        </tr>
-        <tr>
-            <td>evaluatingCount</td>
-            <td>Int</td>
-            <td>评测数</td>
-        </tr>
-        <tr>
-            <td>label</td>
-            <td>Array</td>
-            <td>游戏特征标签</td>
-        </tr>
     </tbody>
 </table>
 
