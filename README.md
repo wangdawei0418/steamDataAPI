@@ -283,7 +283,7 @@ STEAM数据接口
 #### 接口地址：内网：<span>http://192.168.1.180:81</span> 公网：http://47.92.202.205:81/hot2
 #### 返回格式：<span>json</span>
 #### 请求方式：<span>get http</span>
-#### 请求示例：<span>http://47.92.202.205:81/hot1?callback=xxxxxx</span>
+#### 请求示例：<span>http://47.92.202.205:82/hot1?callback=xxxxxx</span>
 
 
 #### 请求参数说明：无
@@ -416,7 +416,7 @@ STEAM数据接口
 #### 接口地址：内网：<span>http://192.168.1.180:81</span> 公网：http://47.92.202.205:81/hot3
 #### 返回格式：<span>json</span>
 #### 请求方式：<span>get http</span>
-#### 请求示例：<span>http://47.92.202.205:81/hot1?callback=xxxxxx</span>
+#### 请求示例：<span>http://47.92.202.205:81/hot3?callback=xxxxxx</span>
 
 
 #### 请求参数说明：无
@@ -549,7 +549,7 @@ STEAM数据接口
 #### 接口地址：内网：<span>http://192.168.1.180:81</span> 公网：http://47.92.202.205:81/onSale
 #### 返回格式：<span>json</span>
 #### 请求方式：<span>get http</span>
-#### 请求示例：<span>http://47.92.202.205:81/hot1?callback=xxxxxx</span>
+#### 请求示例：<span>http://47.92.202.205:81/onSale?callback=xxxxxx</span>
 
 
 #### 请求参数说明：无
