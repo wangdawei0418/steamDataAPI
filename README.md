@@ -102,7 +102,7 @@ STEAM数据接口
 #### 请求示例：<span>http://wangdawei.tech:81/history?callback=fn&gameId=123456,234567</span>
 
 
-### 请求参数说明：无
+### 请求参数说明：
 #### gameId：<span>查询游戏的ID</span>
 
 
